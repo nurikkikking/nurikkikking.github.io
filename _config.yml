@@ -6,11 +6,11 @@
 name: 김누리
 
 # Short bio or description (displayed in the header)
-description: 오픈소스 개별과제
+description: (이름 클릭 시 해당 페이지를 만든 리포지토리로 이동합니다.)
 
 # URL of your avatar or profile pic (You could use your GitHub profile pic)
 # GitHub 프로필 URL을 바탕으로 한 기본 아바타 주소입니다.
-avatar: https://github.com/nurikkikking.png
+avatar: https://github.com/nurikkikking
 
 #
 # Flags below are optional
