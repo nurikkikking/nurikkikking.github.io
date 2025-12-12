@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page(따로 삽입하지 않았음)
 title: About
 permalink: /about/
 ---
