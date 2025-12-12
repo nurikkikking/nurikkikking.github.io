@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+hanyang erica
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+이 페이지는 오픈소스 개별 과제 제출용으로 제작됐습니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nurikkikking@gmail.com](mailto:nurikkikking@gmail.com)
