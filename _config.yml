@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: 김누리
+name: kim nu-ri
 
 # Short bio or description (displayed in the header)
-description: (이름 클릭 시 해당 페이지를 만든 리포지토리로 이동합니다.)
+description: hanyang-erica
 
 # URL of your avatar or profile pic (You could use your GitHub profile pic)
 # GitHub 프로필 URL을 바탕으로 한 기본 아바타 주소입니다.
-avatar: https://github.com/nurikkikking
+avatar: https://github.com/nurikkikking.png
 
 #
 # Flags below are optional
@@ -18,10 +18,9 @@ avatar: https://github.com/nurikkikking
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  github: nurikkikking
+  github: https://github.com/nurikkikking
 
-  # 실행했던 다른 과제: https://github.com/nurikkikking/test.1.git
-  # (템플릿의 아이콘 표시를 위해 'stackoverflow' 키를 사용했습니다.)
+ 
   stackoverflow: https://github.com/nurikkikking/test.1.git 
 
 
